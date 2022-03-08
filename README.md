@@ -1,6 +1,8 @@
 Post request to add credit card Detail
 
 http://localhost:8080/v1/demoExample/creditCard
+
+
 {
     "cardName":"MasterCard",
     "cardNumber":74822839028424,
